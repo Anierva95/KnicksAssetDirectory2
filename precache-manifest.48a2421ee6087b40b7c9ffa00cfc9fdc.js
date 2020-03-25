@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7168ba1065fb85b6c2aeb9838f78500c",
+    "revision": "564b7c90bfbcf839a650b3a8bacaf42c",
     "url": "/KnicksAssetDirectory2/index.html"
   },
   {
-    "revision": "2a595488ddf63259f8cb",
+    "revision": "d7665e8231585273a2c2",
     "url": "/KnicksAssetDirectory2/static/css/main.4a2a0f46.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KnicksAssetDirectory2/static/js/2.1bf73677.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2a595488ddf63259f8cb",
-    "url": "/KnicksAssetDirectory2/static/js/main.3474cb1f.chunk.js"
+    "revision": "d7665e8231585273a2c2",
+    "url": "/KnicksAssetDirectory2/static/js/main.031acd91.chunk.js"
   },
   {
     "revision": "d0ba953cbbb6f2e2d074",
