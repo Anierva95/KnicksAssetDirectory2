@@ -2,10 +2,7 @@
   "name": "knicksassetdirectory2",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "npm": "5.7.1",
-    "node": "9.5.0"
-  },
+  "homepage": "https://anierva95.github.io/KnicksAssetDirectory2/",
   "dependencies": {
     "@material-ui/core": "^4.9.7",
     "@testing-library/jest-dom": "^4.2.4",
