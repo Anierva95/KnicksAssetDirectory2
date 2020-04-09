@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/KnicksAssetDirectory2/precache-manifest.48a2421ee6087b40b7c9ffa00cfc9fdc.js"
+  "/KnicksAssetDirectory2/precache-manifest.044a01e66cc40d87d9081ebbbb279b9c.js"
 );
 
 self.addEventListener('message', (event) => {
